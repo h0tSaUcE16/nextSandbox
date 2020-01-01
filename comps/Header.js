@@ -13,7 +13,7 @@ const Header = () => (
       <a style={linkStyle}>About</a>
     </Link>
     <Link href='http://www.johncavaseno.com'>
-      <a style={linkStyle}>John Cavseno</a>
+      <a style={linkStyle}>John Cavaseno</a>
     </Link>
   </div>
 );
