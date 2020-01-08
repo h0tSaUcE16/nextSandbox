@@ -19,7 +19,7 @@ export default function Layout(props) {
         />
         <link
           rel="icon"
-          href="https://c7.uihere.com/files/711/952/883/batman-joker-logo-symbol-knight-vector.jpg"
+          href="https://www.stickpng.com/assets/images/58428ba1a6515b1e0ad75ab0.png"
         />
       </Head>
       <Header />
