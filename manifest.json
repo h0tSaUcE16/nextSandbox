@@ -1,0 +1,21 @@
+{
+  "short_name": "Bat Page",
+  "name": "Batman Shows Page",
+  "icons": [
+    {
+      "src": "https://www.stickpng.com/assets/images/58428ba1a6515b1e0ad75ab0.png",
+      "type": "image/png",
+      "sizes": "192x192"
+    },
+    {
+      "src": "https://cdn11.bigcommerce.com/s-7va6f0fjxr/images/stencil/1280x1280/products/58733/74972/Dc-Comics-Batman-Logo-Dark-Knight-Decal__06281.1506655992.jpg?c=2&imbypass=on",
+      "type": "image/jpeg",
+      "sizes": "512x512"
+    }
+  ],
+  "start_url": "/",
+  "background_color": "#444",
+  "display": "standalone",
+  "scope": "/",
+  "theme_color": "yellow"
+}
