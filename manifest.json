@@ -13,7 +13,7 @@
       "sizes": "512x512"
     }
   ],
-  "start_url": "/",
+  "start_url": "https://wontedmotion.ninja",
   "background_color": "#444",
   "display": "standalone",
   "scope": "/",
