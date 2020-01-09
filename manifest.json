@@ -16,6 +16,6 @@
   "start_url": "https://wontedmotion.ninja",
   "background_color": "#444",
   "display": "standalone",
-  "scope": "/",
+  "scope": "https://wontedmotion.ninja",
   "theme_color": "yellow"
 }
