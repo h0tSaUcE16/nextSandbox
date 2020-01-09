@@ -21,6 +21,10 @@ export default function Layout(props) {
           rel="icon"
           href="https://www.stickpng.com/assets/images/58428ba1a6515b1e0ad75ab0.png"
         />
+        <link
+          rel="manifest"
+          href="https://raw.githubusercontent.com/joeyycorrss/nextSandbox/master/manifest.json"
+        />
       </Head>
       <Header />
       {props.children}
